@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 iam mohammed
 
 ashraf
+=======
+iam mohammed amjadmk
+
+
+njan amjad
+>>>>>>> 5f33568da1315a12f8657a935c61025494c50de1
